@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChaitanyaHanumanthu
 - 👀 I’m interested in coding and software development
-- 🌱 I’m currently learning python and machine and deep learning
+- 🌱 I’m currently learning python, machine and deep learning
 - 📫 How to reach me ...
 
 
