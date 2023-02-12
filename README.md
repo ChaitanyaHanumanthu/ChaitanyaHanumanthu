@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @ChaitanyaHanumanthu
-- 👀 I’m interested in coding and software development
-- 🌱 I’m currently learning python, machine and deep learning
+- 👀 I’m interested in coding and software, Web development
+- 🌱 I’m currently doing Full time internship at @WestAgileLabs, Hyderabad - onsite. 
+- 😎 Working on Full stack develoment using MERN stack..
 - 📫 How to reach me ...
 
 
-    <!-- I am Chaitanya Hanumanthu, currently doing my B-tech 3rd year on Computer science and engineering at Ap IIIT University Nuzvid.      -->
+    <!-- I am Chaitanya Hanumanthu, currently doing my B-tech final year on Computer science and engineering at Ap IIIT University Nuzvid.      -->
     Name: Chaitanya Hanumanthu         
-                                                                                                    
     Gmail: chaitanya.hanumanthu@gmail.com
     
 
